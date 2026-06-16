@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Generated Data
+data/
+docling_output/
+temp_docling/
+
+# Databases & Indexes
+*.pkl
+*.faiss
+*.db
+
+# Images
+docling_images/
+page_images/
+
+# Logs
+*.log
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
